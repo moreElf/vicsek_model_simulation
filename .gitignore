@@ -1,0 +1,27 @@
+
+# Python virtual environment
+
+venv/
+
+
+
+# Simulation data directories
+
+traj/
+
+traj2/
+
+
+
+# Compiled executable
+
+vicsek_sim
+vicsek_sim2
+
+
+# Python cache
+
+__pycache__/
+
+*.pyc
+
